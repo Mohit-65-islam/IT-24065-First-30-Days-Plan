@@ -1,4 +1,4 @@
-# IT-24024 First 30 Days Plan
+# IT-24065 First 30 Days Plan
 
 ## Overview
 This repository documents a 30-day learning plan focused on IT fundamentals and programming concepts. Each day contains a topic, resources, and example code.
