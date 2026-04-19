@@ -1,4 +1,4 @@
-public class main{
+public class Main_student{
     static void main(String[] args){
         Student s1=new Student();
         s1.name="Mohitul Islam";
