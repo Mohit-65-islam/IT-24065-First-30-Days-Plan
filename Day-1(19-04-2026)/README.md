@@ -23,7 +23,7 @@ public class Main {
 }
 
 ```
-# The code of Example 2
+# The code of Example 02
 ```java
 class Student {
     String name;
