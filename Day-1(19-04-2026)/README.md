@@ -22,7 +22,7 @@ public class Main {
     }
 }
 
-close:
+```
 # The code of Example 2
 ```java
 class Student {
