@@ -5,10 +5,10 @@ class Student {
     String Number;
 
     void Show() {
-        System.out.println("Name: " + name);
-        System.out.println("Roll: " + Roll);
-        System.out.println("District: " + district);
-        System.out.println("Number: " + Number);
+        System.out.println("Name: ");
+        System.out.println("Roll: ";
+        System.out.println("District: ");
+        System.out.println("Number: ");
         System.out.println();
     }
 }
