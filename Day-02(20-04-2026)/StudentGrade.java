@@ -23,7 +23,7 @@ class Student {
     }
 }
 
-public class SchoolSystem {
+public class StudentGrade {
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.setStudentId("ICT-101");
