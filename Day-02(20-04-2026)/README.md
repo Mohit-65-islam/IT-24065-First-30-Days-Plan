@@ -36,7 +36,7 @@ public class EmployeeSalary {
 
 # Example 02
 ```java
-class Student {
+class StudentGrade {
     private String studentId;
     private char grade;
 
