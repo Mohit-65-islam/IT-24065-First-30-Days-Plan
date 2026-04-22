@@ -8,7 +8,7 @@ This repository documents a 30-day learning plan focused on IT fundamentals and 
 
 ---
 
-## Day 01
+## Day 01(19-04-2026)
 **Topic:** Creating Class and Object
 
 **Video:**
@@ -22,5 +22,64 @@ https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-1(19
 - Syntax and structure
 - Creating objects from class
 - Basic examples
+
+---
+## Start Date
+19-04-2026
+
+---
+
+## Day 02 (20-04-2026)
+**Topic:** Modifier & Encapsulation in Java
+
+**Video:**
+https://youtu.be/IWFzm8qlR1c?si=H5U8v8RDIWxkBxzG  
+https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf  
+
+**Code:**
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%202
+
+**Summary:**
+- Access modifiers: public, private, protected, default  
+- Scope and visibility rules  
+- Concept of encapsulation  
+- Data hiding using private variables  
+- Getter and setter methods  
+
+---
+
+## Day 03 (21-04-2026)
+**Topic:** Constructor in Java
+
+**Video:**
+https://youtu.be/acfR5vRTZvc?si=MqKadnG8uppYrFpB  
+
+**Code:**
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%203
+
+**Summary:**
+- Definition of constructor  
+- Default vs parameterized constructor  
+- Constructor overloading  
+- Role in object initialization  
+
+---
+
+## Day 04 (22-04-2026)
+**Topic:** Super Class, Subclass, Inheritance & Polymorphism
+
+**Video:**
+https://youtu.be/j_VA2Rp6jM0?si=7h6M2ZXkI7RR5Ifk  
+https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc  
+
+**Code:**
+(Add your Day 04 code link here)
+
+**Summary:**
+- Superclass and subclass relationship  
+- Inheritance types in Java  
+- Method overriding  
+- Runtime polymorphism  
+- Use of `super` keyword  
 
 ---
