@@ -21,7 +21,7 @@ class Employee {
     }
 }
 
-public class Main {
+public class EmployeeSalary {
     public static void main(String[] args) {
         Employee emp = new Employee();
         emp.setName("Alif");
