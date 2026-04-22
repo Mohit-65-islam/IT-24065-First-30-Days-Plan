@@ -24,8 +24,6 @@ https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-1(19
 - Basic examples
 
 ---
-## Start Date
-19-04-2026
 
 ---
 
