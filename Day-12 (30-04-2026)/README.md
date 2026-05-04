@@ -15,7 +15,7 @@ public class Example1 {
     }
 }
 ```
-# EXample 02
+# Example 02
 ```java
 import java.util.HashMap;
 
