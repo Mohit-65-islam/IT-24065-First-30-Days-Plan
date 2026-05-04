@@ -81,13 +81,12 @@ https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-04%2
 - Use of `super` keyword  
 
 ---
-Day 05 (23-04-2026)
+## Day 05 (23-04-2026)
 Topic: Polymorphism
 
 Video: https://youtu.be/bLke13zY4rg?si=pn4yfkoA49TRZc4T
 
-Code: https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-5%20(23-04-2026)
-
+Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-05(23-04-2026)
 Summary:
 Definition of polymorphism
 Compile-time vs runtime polymorphism
@@ -96,12 +95,12 @@ Method overriding basics
 Dynamic method dispatch
 ---
 
-Day 06 (24-04-2026)
+## Day 06 (24-04-2026)
 Topic: Abstraction
 
 Video: https://youtu.be/1SXyi3DK-88?si=HaMdiMi0FMaMLKJl
 
-Code: https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-6%20(24-04-2026)
+Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-06(24-04-2026)
 
 Summary:
 Concept of abstraction
@@ -110,12 +109,12 @@ Interfaces in Java
 Difference between abstraction and encapsulation
 Real-world abstraction examples
 ---
-Day 07 (25-04-2026)
+## Day 07 (25-04-2026)
 Topic: Inner Classes
 
 Video: https://youtu.be/lsJ9QjJPbx8?si=qtY8pQBdhcVvjegm
 
-Code: https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-7%20(25-04-2026)
+Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-07(25-04-2026)
 
 Summary:
 Types of inner classes
@@ -131,7 +130,7 @@ Topic: Java Collection Framework
 
 Video: https://youtu.be/TDHaeHAlPFg?si=KbZlPOkC4nkKOSPt
 
-Code: https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-8%20(26-04-2026)
+Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-08(26-04-2026)
 
 Summary:
 Overview of collection framework
@@ -141,12 +140,12 @@ Advantages of collections
 Iterable interface basics
 ---
 
-Day 09 (27-04-2026)
+## Day 09 (27-04-2026)
 Topic: ArrayList & Linked List
 
 Video: https://youtu.be/q-5D9Z9BCVI?si=ZuxFxai-YTkscQgg
 
-Code: https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-9%20(27-04-2026)
+Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day09-(27-04-2026)
 
 Summary:
 ArrayList structure and usage
@@ -156,13 +155,12 @@ Performance comparison
 Basic operations (add, remove, access)
 ---
 
-Day 10 (28-04-2026)
+## Day 10 (28-04-2026)
 Topic: HashSet & TreeSet
 
 Video: https://youtu.be/XDw-BkAZYmY?si=9RhIjbSWTacyW2Zz
 
-Code: https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-10%20(28-04-2026)
-
+Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-10(28-04-2026)
 Summary:
 Set interface basics
 HashSet characteristics
@@ -171,12 +169,12 @@ Differences between HashSet and TreeSet
 Uniqueness and ordering
 ---
 
-Day 11 (29-04-2026)
+## Day 11 (29-04-2026)
 Topic: Queues
 
 Video: https://youtu.be/PccU1wAdnlM?si=J8yF5pltWxiOzdjQ
 
-Code: https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-11%20(29-04-2026)
+Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-11(29-04-2026)
 
 Summary:
 Queue interface overview
@@ -186,13 +184,12 @@ Deque interface basics
 Queue operations (offer, poll, peek)
 ---
 
-Day 12 (30-04-2026)
+## Day 12 (30-04-2026)
 Topic: HashMap & TreeMap
 
 Video: https://youtu.be/ZarOdaT7P2k?si=NUU7yjrREnoLKkxQ
 
-Code: https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-12%20(30-04-2026)
-
+Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-12%20(30-04-2026)
 Summary:
 Map interface overview
 HashMap structure and behavior
@@ -201,12 +198,12 @@ Key-value pairs
 Differences between HashMap and TreeMap
 ---
 
-Day 13 (01-05-2026)
+## Day 13 (01-05-2026)
 Topic: Using Collection in Real World Scenario
 
 Video: https://youtu.be/gtmBSl10DvY?si=SDRLVq7KEE2MpHQS
 
-Code: https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-13%20(01-05-2026)
+Code: 
 
 Summary:
 Applying collections in applications
