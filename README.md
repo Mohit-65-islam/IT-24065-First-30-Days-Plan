@@ -86,8 +86,9 @@ Topic: Polymorphism
 
 Video: https://youtu.be/bLke13zY4rg?si=pn4yfkoA49TRZc4T
 
-Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-05(23-04-2026)
-Summary:
+**Code:**
+https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-05(23-04-2026)
+**Summary:**
 Definition of polymorphism
 Compile-time vs runtime polymorphism
 Method overloading
@@ -100,9 +101,10 @@ Topic: Abstraction
 
 Video: https://youtu.be/1SXyi3DK-88?si=HaMdiMi0FMaMLKJl
 
-Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-06(24-04-2026)
+**Code:**
+https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-06(24-04-2026)
 
-Summary:
+**Summary:**
 Concept of abstraction
 Abstract classes and methods
 Interfaces in Java
@@ -114,9 +116,10 @@ Topic: Inner Classes
 
 Video: https://youtu.be/lsJ9QjJPbx8?si=qtY8pQBdhcVvjegm
 
-Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-07(25-04-2026)
+**Code:**
+https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-07(25-04-2026)
 
-Summary:
+**Summary:**
 Types of inner classes
 Member inner class
 Static nested class
@@ -130,9 +133,10 @@ Topic: Java Collection Framework
 
 Video: https://youtu.be/TDHaeHAlPFg?si=KbZlPOkC4nkKOSPt
 
-Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-08(26-04-2026)
+**Code:**
+https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-08(26-04-2026)
 
-Summary:
+**Summary:**
 Overview of collection framework
 Hierarchy of collections
 List, Set, Queue interfaces
@@ -145,9 +149,10 @@ Topic: ArrayList & Linked List
 
 Video: https://youtu.be/q-5D9Z9BCVI?si=ZuxFxai-YTkscQgg
 
-Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day09-(27-04-2026)
+**Code:**
+https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day09-(27-04-2026)
 
-Summary:
+**Summary:**
 ArrayList structure and usage
 LinkedList structure and usage
 Differences between ArrayList and LinkedList
@@ -160,8 +165,9 @@ Topic: HashSet & TreeSet
 
 Video: https://youtu.be/XDw-BkAZYmY?si=9RhIjbSWTacyW2Zz
 
-Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-10(28-04-2026)
-Summary:
+**Code:** 
+https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-10(28-04-2026)
+**Summary:**
 Set interface basics
 HashSet characteristics
 TreeSet characteristics
@@ -174,9 +180,10 @@ Topic: Queues
 
 Video: https://youtu.be/PccU1wAdnlM?si=J8yF5pltWxiOzdjQ
 
-Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-11(29-04-2026)
+**Code:**
+https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-11(29-04-2026)
 
-Summary:
+**Summary:**
 Queue interface overview
 FIFO principle
 PriorityQueue
@@ -189,8 +196,9 @@ Topic: HashMap & TreeMap
 
 Video: https://youtu.be/ZarOdaT7P2k?si=NUU7yjrREnoLKkxQ
 
-Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-12%20(30-04-2026)
-Summary:
+**Code:**
+https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-12%20(30-04-2026)
+**Summary:**
 Map interface overview
 HashMap structure and behavior
 TreeMap structure and sorting
@@ -198,17 +206,3 @@ Key-value pairs
 Differences between HashMap and TreeMap
 ---
 
-## Day 13 (01-05-2026)
-Topic: Using Collection in Real World Scenario
-
-Video: https://youtu.be/gtmBSl10DvY?si=SDRLVq7KEE2MpHQS
-
-Code: 
-
-Summary:
-Applying collections in applications
-Data storage and retrieval patterns
-Choosing the right collection
-Practical examples with List, Set, Map
-Performance considerations
----
