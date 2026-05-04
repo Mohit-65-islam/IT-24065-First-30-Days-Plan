@@ -94,6 +94,7 @@ Compile-time vs runtime polymorphism
 Method overloading
 Method overriding basics
 Dynamic method dispatch
+
 ---
 
 ## Day 06 (24-04-2026)
@@ -110,6 +111,7 @@ Abstract classes and methods
 Interfaces in Java
 Difference between abstraction and encapsulation
 Real-world abstraction examples
+
 ---
 ## Day 07 (25-04-2026)
 Topic: Inner Classes
@@ -126,6 +128,7 @@ Static nested class
 Local inner class
 Anonymous inner class
 Use cases of inner classes
+
 ---
 
 Day 08 (26-04-2026)
@@ -142,6 +145,7 @@ Hierarchy of collections
 List, Set, Queue interfaces
 Advantages of collections
 Iterable interface basics
+
 ---
 
 ## Day 09 (27-04-2026)
@@ -158,6 +162,7 @@ LinkedList structure and usage
 Differences between ArrayList and LinkedList
 Performance comparison
 Basic operations (add, remove, access)
+
 ---
 
 ## Day 10 (28-04-2026)
@@ -173,6 +178,7 @@ HashSet characteristics
 TreeSet characteristics
 Differences between HashSet and TreeSet
 Uniqueness and ordering
+
 ---
 
 ## Day 11 (29-04-2026)
@@ -189,6 +195,7 @@ FIFO principle
 PriorityQueue
 Deque interface basics
 Queue operations (offer, poll, peek)
+
 ---
 
 ## Day 12 (30-04-2026)
@@ -204,5 +211,6 @@ HashMap structure and behavior
 TreeMap structure and sorting
 Key-value pairs
 Differences between HashMap and TreeMap
+
 ---
 
