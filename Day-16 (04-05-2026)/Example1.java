@@ -1,5 +1,3 @@
-# Example-1
-```java
 import java.io.FileOutputStream;
 import java.io.IOException;
 
@@ -16,4 +14,4 @@ public class Example1 {
         System.out.println("Data written to file");
     }
 }
-```
+
